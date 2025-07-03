@@ -7,10 +7,12 @@
 bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+bikeshare python project for PFDS
 
 ### Files used
-Include the files used
+1- chicago.csv
+2- newyork.csv
+3- washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
