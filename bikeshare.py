@@ -142,6 +142,9 @@ def name()
 
 
 def printinfo()
+        print ("rana")
+        print("data analyst")
+
         
 def main():
     while True:
