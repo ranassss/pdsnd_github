@@ -140,7 +140,9 @@ def display_raw_data(df):
 def name()
     print ("her name rana")
 
-    
+
+def printinfo()
+        
 def main():
     while True:
         city, month, day = get_filters()
